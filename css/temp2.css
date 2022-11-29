@@ -585,6 +585,7 @@ header .search i {
 @media (max-width: 767px) {
   .video .text {
     line-height: 2;
+       background-color: transparent;
   }
 }
 
